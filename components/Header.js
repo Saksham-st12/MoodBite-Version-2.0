@@ -140,7 +140,7 @@ export default function Header({ onOpenPantry, onResetChat }) {
                         MoodBite.ai
                     </span>
                     <span className="text-[10px] sm:text-xs text-white/50 border border-white/10 px-2 sm:px-2.5 py-0.5 rounded-full backdrop-blur-md bg-white/5 font-mono">
-                        v1.0
+                        v2.0
                     </span>
                 </Link>
             </div>

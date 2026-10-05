@@ -133,7 +133,7 @@ export default function AboutPage() {
                         </h1>
                     </Link>
                     <div className="hidden sm:inline-flex text-[11px] text-white/60 border border-white/15 px-2.5 py-0.5 rounded-full backdrop-blur-md bg-white/5 font-mono">
-                        v1.0
+                        v2.0
                     </div>
                 </div>
 
